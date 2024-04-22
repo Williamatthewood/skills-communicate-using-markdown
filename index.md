@@ -1,7 +1,11 @@
-# Header H1
-## Header h2
-###### Header h6
+# Index changes!
 
-Yaktocat
+## Code Example (JavaScript)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+## Yaktocat Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
