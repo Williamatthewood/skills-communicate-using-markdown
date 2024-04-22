@@ -2,4 +2,6 @@
 ## Header h2
 ###### Header h6
 
-Added headers above
+Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
